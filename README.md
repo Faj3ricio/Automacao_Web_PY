@@ -4,5 +4,6 @@ Com este template, poderemos pegar qualquer informação da internet, de forma a
 #### Especificações
 Bibliotecas usadas:
 
+- Necessario o uso do Jupyter, por já ter as bibliotecas necessarias integradas
 - Usaremos o selenium
 - Importante: Necessario baixar o webdriver do navegador e enviar para o local onde foi instalado o Anaconda
